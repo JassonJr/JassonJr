@@ -11,8 +11,9 @@ Meus passatempos quando não estou estudando ou desenvolvendo incluem aprender s
   </a>
 </div>
 
-<br>
+### Contato:
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasson-jr-sa/)
+
 <!--
 **JassonJr/JassonJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

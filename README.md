@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o <br> Jasson Junior! <br> Desenvolvedor <br> Front-End.
+### 👋 Olá, eu sou o Jasson Junior! <br> Desenvolvedor Front-End.
 
 Estou cursando o último semestre de **Análise e Desenvolvimento de Sistemas** na Universidade Paulista. Também sou aluno do curso de **Desenvolvedor Front-end** do programa Ford Enter, uma parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP.
 

@@ -20,7 +20,7 @@ Meus passatempos quando não estou estudando ou desenvolvendo incluem aprender s
   <img height="64rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-## 🛠 &nbsp;Algumas estatísticas: ##
+## 📊 &nbsp;Algumas estatísticas: ##
 <div>
   <a href="https://github.com/JassonJr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JassonJr&show_icons=true&theme=tokyonight">

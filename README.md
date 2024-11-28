@@ -2,9 +2,9 @@
   👋 Olá, eu sou o Jasson Junior! <br> Desenvolvedor Front-End.  
 </h1> 
 
-Tenho 26 anos, estou localizado em São Paulo, Brasil. 🏙
+Tenho 27 anos, estou localizado em São Paulo, Brasil. 🏙
 
-Estou cursando o último semestre de **Análise e Desenvolvimento de Sistemas** na Universidade Paulista. Também sou aluno do curso de **Desenvolvedor Front-end** do programa Ford Enter, uma parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Paulista. Também fui aluno do curso de **Desenvolvedor Front-end** do programa Ford Enter, uma parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP.
 
 Meus passatempos quando não estou estudando ou desenvolvendo incluem aprender sobre **culinária**, andar de **longboard**, jogar **Magic: the Gathering** com os amigos e explorar as montanhas e florestas de **Skyrim** e **Hyrule**.
 
